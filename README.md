@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmadeusBurst
 - 👀 I’m interested in gaming principally (mh saga), books about story if about of a country or the mathematics, 3d animation foccused on Low-Poly
 - 🌱 I’m currently learning python-lang, html-css, c#, sql
-- 💞️ I’m looking to improve my skillset on object orient, (app & web) sites, game develop.
+- 💞️ I’m looking to improve my skillset on object orient, (app & web) sites, game develop, low-poly modelling.
 - 📫 How to reach me? You can do it send me a email armandobustamante14@gmail.com
 
 <!---
